@@ -9,9 +9,4 @@ Let's say there's Alice and Bob. Both know a poseidon hash $H$, a path $P$, and 
 - The value in $J$ under the path $P$ equals $V$.
 
 # Usage
-Use [clutch](https://github.com/lurk-lab/lurk-rs/tree/master/clutch).
-
-```
-!
-
-```
+Use [fcomm](https://github.com/lurk-lab/lurk-rs/tree/master/fcomm).
